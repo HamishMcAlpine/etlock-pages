@@ -1,0 +1,5 @@
+title: ETLock
+description: ETLock privacy, support and account deletion
+# Only the three pages are published. No index page, no README.
+exclude:
+  - README.md
